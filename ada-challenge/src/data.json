@@ -1,82 +1,82 @@
 [{
     "id": 1,
-    "task": "Give dog a bath",
+    "task": "Clean Windows",
     "complete": true
   }, {
     "id": 2,
-    "task": "Do laundry",
+    "task": "Laundry",
     "complete": true
   }, {
     "id": 3,
-    "task": "Vacuum floor",
+    "task": "Take Out Trash",
     "complete": false
   }, {
     "id": 4,
-    "task": "Feed cat",
+    "task": "2 Hours of Coding",
     "complete": true
   }, {
     "id": 5,
-    "task": "Change light bulbs",
+    "task": "Buy Groceries",
     "complete": false
   }, {
     "id": 6,
-    "task": "Go to Store",
+    "task": "Pay Deposit on Airbnb",
     "complete": true
   }, {
     "id": 7,
-    "task": "Fill gas tank",
+    "task": "Clean Bathroom",
     "complete": true
   }, {
     "id": 8,
-    "task": "Change linens",
+    "task": "Wash Car",
     "complete": false
   }, {
     "id": 9,
-    "task": "Rake leaves",
+    "task": "Feed Cats",
     "complete": true
   }, {
     "id": 10,
-    "task": "Bake Cookies",
+    "task": "Plan Dinner",
     "complete": false
   }, {
     "id": 11,
-    "task": "Take nap",
+    "task": "Feierabend",
     "complete": true
   }, {
     "id": 12,
-    "task": "Read book",
+    "task": "Beat81 Class",
     "complete": true
   }, {
     "id": 13,
-    "task": "Exercise",
+    "task": "Order Supplies on Amazon",
     "complete": false
   }, {
     "id": 14,
-    "task": "Give dog a bath",
+    "task": "Pay Phone Bill",
     "complete": false
   }, {
     "id": 15,
-    "task": "Do laundry",
+    "task": "Watch Netflix",
     "complete": false
   }, {
     "id": 16,
-    "task": "Vacuum floor",
+    "task": "Go to the Park",
     "complete": false
   }, {
     "id": 17,
-    "task": "Feed cat",
+    "task": "Buy Candles",
     "complete": true
   }, {
     "id": 18,
-    "task": "Change light bulbs",
+    "task": "Go for a Walk",
     "complete": false
   }, {
     "id": 19,
-    "task": "Go to Store",
+    "task": "Write in Journal",
     "complete": false
   }, {
     "id": 20,
-    "task": "Fill gas tank",
+    "task": "Call Mom",
     "complete": false
   }]
  
